@@ -1,0 +1,1 @@
+This script takes images from the imgs file and adds a sharpening filter along with some contrast adjustments. The new image is then saved to the edited file
